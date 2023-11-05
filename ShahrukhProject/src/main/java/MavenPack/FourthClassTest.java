@@ -7,6 +7,9 @@ public class FourthClassTest {
 	public void fourmethod()
 	{
 		System.out.println("Fourth class four method");
+		System.out.println("Fourth class four method");
+		System.out.println("Fourth class four method");
+		System.out.println("Fourth class four method");
 	}
 
 }
