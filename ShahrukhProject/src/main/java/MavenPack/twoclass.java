@@ -1,3 +1,4 @@
+package MavenPack;
 import org.testng.annotations.Test;
 
 public class twoclass {
