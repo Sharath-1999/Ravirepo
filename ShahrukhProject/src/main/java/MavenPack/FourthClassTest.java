@@ -1,6 +1,7 @@
+package MavenPack;
 import org.testng.annotations.Test;
 
-public class FourthClass {
+public class FourthClassTest {
 	
 	@Test
 	public void fourmethod()

@@ -1,5 +1,6 @@
+package MavenPack;
 
-class oneclass {
+class oneclassTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

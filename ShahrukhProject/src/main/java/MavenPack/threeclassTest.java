@@ -1,6 +1,7 @@
+package MavenPack;
 import org.testng.annotations.Test;
 
-public class threeclass {
+public class threeclassTest {
 
 	@Test
 	public void three()
